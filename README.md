@@ -24,13 +24,6 @@
 
 ---
 
-## 📫 How to reach me
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/yzyyna](https://linkedin.com/in/yzyyna)
-- **Twitter**: [@yzyyna_dev](https://twitter.com/yzyyna_dev)
-
----
 
 ## 📊 GitHub Stats
 
@@ -41,9 +34,9 @@
 ## 🚀 Fun Facts About Me
 
 - I love solving complex algorithms and participating in coding challenges.
-- In my free time, I enjoy gaming, hiking, and photography.
+- In my free time, I enjoy reading, thinking, and sport.
 - I’m a coffee enthusiast ☕ and an eternal learner.
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together! 😄
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together! ✨
