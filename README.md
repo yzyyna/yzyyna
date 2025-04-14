@@ -1,6 +1,6 @@
 # 👋 Hi, I'm yzyyna!
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building software, exploring new technologies, and contributing to the open-source community.
+ I'm a passionate developer who loves building software, exploring new technologies, and contributing to the open-source community.
 
 ---
 
@@ -12,14 +12,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building soft
 - **Cloud**: AWS, Azure, GCP
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Other Tools**: Git, VS Code, Webpack, ESLint
-
----
-
-## 🌱 What I’m currently learning
-
-- Advanced AI/ML techniques and applications
-- Exploring Rust and Go for systems-level programming
-- Diving deeper into Web3 and Blockchain technologies
 
 ---
 
