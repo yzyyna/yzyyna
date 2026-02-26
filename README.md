@@ -6,9 +6,9 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, Python, TypeScript
-- **Frameworks/Libraries**: React, Node.js, Django
-- **DevOps**: Docker, Kubernetes, GitHub Actions
+- **Languages**: JavaScript, Uni-app, TypeScript, Vue
+- **Frameworks/Libraries**: Vue, Node.js, Element，Unocss，Vite，Scss
+- **DevOps**: Docker, Nginx
 - **Cloud**: AWS, Azure, GCP
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Other Tools**: Git, VS Code, Webpack, ESLint
